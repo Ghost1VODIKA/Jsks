@@ -322,18 +322,18 @@ SG_B_2 : "صوتي 🔊"
 SG_B_3 : "فيديو 🎥"
 
 #Stats
-SA_B_1 : "📢 Top 10 Chat"
-SA_B_2 : "🔢 Top 10 Tracks"
-SA_B_3 : "🧛 Top 10 Users"
-SA_B_4 : "🏷 Top 10 Here"
-SA_B_5 : "💡 Overall Stats"
-SA_B_6 : "👤 User Stats"
-SA_B_7 : "🔢 Global Top 10 Stats"
-SA_B_8 : "🤖 Bot Stats"
+SA_B_1 : "أفضل 10 دردشات 📢"
+SA_B_2 : "أفضل 10 مسارات 🔢"
+SA_B_3 : "أفضل 10 مستخدمين 🧛"
+SA_B_4 : "أفضل 10 هنا 🏷"
+SA_B_5 : "إحصائيات عامه 💡"
+SA_B_6 : "إحصائيات الاكونت المساعد 👤"
+SA_B_7 : "أفضل 10 إحصائيات عالميه 🔢"
+SA_B_8 : "إحصائيات البوت 🤖"
 
 #Queue
-QU_B_1 : "📑 Queued List"
-QU_B_2 : "Played {0} out of {1} Mins"
+QU_B_1 : "قائمة الانتظار 📑"
+QU_B_2 : "تم تشغيل {0} من {1} دقيقه"
 
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
