@@ -237,13 +237,13 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
-UNBAN_BUTTON : "🗑 Unban Assistant"
+CLOSE_BUTTON  : "إغلاق 🗑"
+CLOSEMENU_BUTTON  : "إغلاق القائمة 🗑"
+BACK_BUTTON : "رجوع ⬅"
+UNBAN_BUTTON : "الغاء حظر الحساب المساعد 🗑"
 
 #Lyrics
-L_B_1 : "🚀 Checkout Lyrics Now"
+L_B_1 : "إخراج كلمات الاغنيه الان...🚀"
 
 # Start
 S_B_1 : "الاوامر 🗒"
